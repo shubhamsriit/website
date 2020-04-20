@@ -1,0 +1,110 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587395082065,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.ece3917257a2b35a4b76.js",
+        "/main-es5.ece3917257a2b35a4b76.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.f2c5ab749249a66bdf26.js",
+        "/polyfills-es5.8762124472dbe27575bb.js",
+        "/runtime-es2015.1eba213af0b233498d9d.js",
+        "/runtime-es5.1eba213af0b233498d9d.js",
+        "/styles.e85664fc5a31b02ac00f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/Product.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/badam.jpg",
+        "/assets/images/biscuit.jpg",
+        "/assets/images/bread.jpg",
+        "/assets/images/download (1).png",
+        "/assets/images/download.png",
+        "/assets/images/kitkat.jpg",
+        "/assets/images/kurkure.jpg",
+        "/assets/images/lays.jpg",
+        "/assets/images/maggi.jpg",
+        "/assets/images/namkeen.jpg",
+        "/assets/images/peanut.jpg",
+        "/assets/images/product-jpeg-500x500.jpg",
+        "/assets/images/rice.jpg",
+        "/assets/images/wheat.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/Product.json": "32a012f4e694875b707b2d09267b06ec1bea95b1",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/badam.jpg": "44e5f775ab45b369f113438f98b91f45627fc9dc",
+    "/assets/images/biscuit.jpg": "550946ae7c2e87d3bddcbd965e19770c45d46b93",
+    "/assets/images/bread.jpg": "ebe17615739f24a7f6581ad477d38eddf7a37edc",
+    "/assets/images/download (1).png": "499ee40cbcc7e7acb9934e491d7dac5d117b8850",
+    "/assets/images/download.png": "df4c30d2c1e4259ea364807fce0eae2352ee670f",
+    "/assets/images/kitkat.jpg": "44ef326a82b61154f61da3267c49d1425c420005",
+    "/assets/images/kurkure.jpg": "1a348e4fd8cc183a2e9aa7662ff3f11ddfded08e",
+    "/assets/images/lays.jpg": "d539d30b90615381cf0a09e5b74efe7bef0fbf53",
+    "/assets/images/maggi.jpg": "78fce2fc27347e0ced1e539ad9a9ff0aa6726bdc",
+    "/assets/images/namkeen.jpg": "8be8e9aa8c6142fc9862a6ec515a83205ad3a4a4",
+    "/assets/images/peanut.jpg": "e7ff266e0640763e4cedf52367fbc00276289382",
+    "/assets/images/product-jpeg-500x500.jpg": "d03ade5db0ca6e6fdefd75f16e387700ebffa188",
+    "/assets/images/rice.jpg": "c151d10aa88b8f0c211429de1f8ff5bf2f1630ed",
+    "/assets/images/wheat.jpg": "3def7f2613d1efd18d825dae3b752a3556b99a5c",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "4f21830466b408213befa3a66d94fe4c80bdfafb",
+    "/main-es2015.ece3917257a2b35a4b76.js": "139cf88d5c310bf9ee23d02e4a267ac74c28d64f",
+    "/main-es5.ece3917257a2b35a4b76.js": "e4d325d68afcf23f6d4be88c6e2bde7b57f7812a",
+    "/manifest.webmanifest": "e9cb8eedc4723ded3c91e832699c41d25e95a3f5",
+    "/polyfills-es2015.f2c5ab749249a66bdf26.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.8762124472dbe27575bb.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.e85664fc5a31b02ac00f.css": "0ff97279e146f82190cecdf3add6faf5e858e9ee"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
